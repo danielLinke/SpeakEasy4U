@@ -2,7 +2,7 @@
 <p align="center"><img src="resources/speakeasy4u.png" width="250"></p>
 
 # SpeakEasy4U
-__Author:__ @danielLinke
+__Author:__ @github/danielLinke
 
 Software			| Specification
 :-------------------|:----------
